@@ -1,0 +1,1 @@
+The `struct` package is a built-in Python module and doesn't require separate installation via `pip`.  Therefore, it should *not* be included in a `requirements.txt` file or similar dependency list.
